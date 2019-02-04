@@ -2,7 +2,7 @@
 
 let piezas = document.getElementsByClassName('movil');
 
-let tamWidh = [200, 200, 200, 200, 200, 200, 200, 200, 200];
+let tamWidh = [200, 210, 220, 230, 240, 200, 200, 200, 200];
 let tamHeight = [100, 100, 100, 100, 100, 100, 100, 100, 100];
 
 for(let i=0;i<piezas.length;i++){
